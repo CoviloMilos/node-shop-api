@@ -1,6 +1,10 @@
-REST API 
-MONGODB
-NODEJS
-USER SIGNUP
-USER LOGIN
-JWT Route Protection
+# REST API
+## NODEJS
+######     EXPRESS
+## MONGODB
+######     MONGOOSE
+## JWT
+###### JWT Route Protection
+
+
+Simple REST API for shop (SignUp, Login, CRUD Products and Orders)
